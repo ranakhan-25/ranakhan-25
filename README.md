@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=600&height=60&lines=Front-End+Developer;UI%2FUX+Enthusiast;Tech+Explorer;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
-![Banner](https://copilot.microsoft.com/th/id/BCO.94109515-0a74-4408-8a79-83e0046b6a5c.png)
+![Banner](https://copilot.microsoft.com/th/id/BCO.4d685d79-9910-471b-b607-f1ad2d4dab35.png)
 
 </div>
 
@@ -59,7 +59,7 @@
     }
   }
 }
-
+```
 
 ---
 ## 🌐 Connect With Me  
