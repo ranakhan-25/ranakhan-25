@@ -1,7 +1,8 @@
 # Hi, I'm Rana 👋  
-![Banner](https://copilot.microsoft.com/th/id/BCO.f1827281-25dc-4ea4-b813-1cacd31c34a4.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&lines=Front-End+Developer;UI%2FUX+Enthusiast;Tech+Explorer)](https://git.io/typing-svg)
+
+![Banner](https://copilot.microsoft.com/th/id/BCO.f1827281-25dc-4ea4-b813-1cacd31c34a4.png)
 
 ---
 
@@ -31,9 +32,9 @@
 
 ## 🌐 Connect With Me  
 
-- GitHub: [Your GitHub Profile Link]  
-- LinkedIn: [Your LinkedIn Profile Link]  
-- Portfolio: [Your Portfolio Website Link]  
+- GitHub: [https://github.com/ranakhan-25]  
+- LinkedIn: [https://www.linkedin.com/in/rana-khan-dev/]  
+- Portfolio: [https://ranakhan.vercel.app/]  
 
 ---
 
