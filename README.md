@@ -4,12 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=600&height=60&lines=Front-End+Developer;UI%2FUX+Enthusiast;Tech+Explorer;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
-![Banner](https://copilot.microsoft.com/th/id/BCO.f1827281-25dc-4ea4-b813-1cacd31c34a4.png)
+![Banner](https://i.ibb.co.com/mCWsJCkt/github.png)
 
 </div>
 
 ---
-
 ## 🛠️ Skills & Tools  
 
 <p align="center">
@@ -27,14 +26,45 @@
 </p>
 
 ---
-
 ## 🌱 Currently Learning  
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
-</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&center=true&vCenter=true&width=500&lines=Learning+Node.js;Learning+Express.js;Learning+MongoDB)](https://git.io/typing-svg)
+
+</div>
+
+---
+{
+  "title": "Skills and Languages",
+  "skills_and_languages": {
+    "frontend": {
+      "core": ["HTML", "CSS", "JavaScript"],
+      "frameworks": ["React", "Tailwind CSS", "Bootstrap"]
+    },
+    "design_and_animation": {
+      "tools": ["Figma"],
+      "libraries": ["Framer Motion"]
+    },
+    "backend_learning": {
+      "runtime": ["Node.js"],
+      "framework": ["Express.js"],
+      "database": ["MongoDB"]
+    },
+    "tools": {
+      "api_testing": ["Postman"],
+      "version_control": ["Git", "GitHub"]
+    }
+  }
+}
+
+---
+## 🌐 Connect With Me  
+
+- Email: [ranakhandev2025@gmail.com]
+- GitHub: [https://github.com/ranakhan-25]  
+- LinkedIn: [https://www.linkedin.com/in/rana-khan-dev/]  
+- Portfolio: [https://ranakhan.vercel.app/]  
 
 ---
 
