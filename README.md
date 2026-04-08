@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=600&height=60&lines=Front-End+Developer;UI%2FUX+Enthusiast;Tech+Explorer;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
-![Banner](https://copilot.microsoft.com/th/id/BCO.4d685d79-9910-471b-b607-f1ad2d4dab35.png)
+![Frontend Banner](https://copilot.microsoft.com/th/id/BCO.8d63c003-7999-4a3a-9108-3f9b84ac57db.png)
 
 </div>
 
