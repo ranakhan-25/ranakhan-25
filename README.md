@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Rana 👋  
+![Banner](https://copilot.microsoft.com/th/id/BCO.f1827281-25dc-4ea4-b813-1cacd31c34a4.png)
 
-<!--
-**ranakhan-25/ranakhan-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&lines=Front-End+Developer;UI%2FUX+Enthusiast;Tech+Explorer)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools  
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50"/>
+</p>
+
+---
+
+## 📂 Projects  
+
+- **Personal Portfolio** – Responsive portfolio showcasing skills, projects, and contact info.  
+- **Job Tracker Web App** – Interactive UI with card movement and event logic.  
+- **API Integration** – Automated mock APIs using `json-server` for testing.  
+
+---
+
+## 🌐 Connect With Me  
+
+- GitHub: [Your GitHub Profile Link]  
+- LinkedIn: [Your LinkedIn Profile Link]  
+- Portfolio: [Your Portfolio Website Link]  
+
+---
+
+⭐️ *"Code is not just logic, it's creativity turned into reality."*
