@@ -8,7 +8,6 @@
 
 </div>
 
----
 ## 🛠️ Skills & Tools  
 
 <p align="center">
@@ -28,26 +27,58 @@
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br/>
-        React
+        React JS
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50"/><br/>
-        Tailwind
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/><br/>
+        Next JS
       </td>
     </tr>
     <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50"/><br/>
+        Tailwind CSS
+      </td>
+      <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/73895729?s=200&v=4" width="50"/><br/>
+        DaisyUI
+      </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/><br/>
         Bootstrap
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/><br/>
-        Figma
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br/>
+        Node JS
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/><br/>
+        Express JS
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br/>
+        MongoDB
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/><br/>
+        Firebase
+      </td>
+      <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/158137808?s=200&v=4" width="50"/><br/>
+        Better Auth
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" width="50"/><br/>
-        Framer
+        Framer Motion
       </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/><br/>
+        Figma
+      </td>
+    </tr>
+    <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/><br/>
         Postman
@@ -56,8 +87,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br/>
         Git
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br/>
         GitHub
@@ -108,7 +137,7 @@
 - Email: [ranakhandev2025@gmail.com]
 - GitHub: [https://github.com/ranakhan-25]  
 - LinkedIn: [https://www.linkedin.com/in/rana-khan-dev/]  
-- Portfolio: [https://ranakhan.vercel.app/]  
+- Portfolio: [https://ranakhanweb.vercel.app/]  
 
 ---
 
