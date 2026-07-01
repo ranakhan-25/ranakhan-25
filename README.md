@@ -68,7 +68,7 @@
         MongoDB
       </td>
       <td align="center">
-        <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" width="60"/><br/>
+        <img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br/>
         Mongoose
       </td>
       <td align="center">
