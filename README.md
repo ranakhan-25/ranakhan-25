@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Rana 👋  
+# Hi, I'm Atikul Haq Rana 👋  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=600&height=60&lines=Front-End+Developer;UI%2FUX+Enthusiast;Tech+Explorer;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
-![Frontend Banner](https://i.ibb.co.com/6cTZ2p7L/github-banner.png)
+![Frontend Banner](https://i.ibb.co.com/vxXtjb7H/github-image.png)
 
 </div>
 
