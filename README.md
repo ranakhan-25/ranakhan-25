@@ -26,15 +26,20 @@
         JavaScript
       </td>
       <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br/>
+        TypeScript
+      </td>
+      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br/>
         React JS
       </td>
+    </tr>
+
+    <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/><br/>
         Next JS
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50"/><br/>
         Tailwind CSS
@@ -51,15 +56,20 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br/>
         Node JS
       </td>
+    </tr>
+
+    <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/><br/>
         Express JS
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br/>
         MongoDB
+      </td>
+      <td align="center">
+        <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" width="60"/><br/>
+        Mongoose
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/><br/>
@@ -69,6 +79,9 @@
         <img src="https://avatars.githubusercontent.com/u/158137808?s=200&v=4" width="50"/><br/>
         Better Auth
       </td>
+    </tr>
+
+    <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" width="50"/><br/>
         Framer Motion
@@ -77,8 +90,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/><br/>
         Figma
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/><br/>
         Postman
