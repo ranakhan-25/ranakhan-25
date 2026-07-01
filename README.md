@@ -34,7 +34,6 @@
         React JS
       </td>
     </tr>
-
     <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/><br/>
@@ -57,7 +56,6 @@
         Node JS
       </td>
     </tr>
-
     <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/><br/>
@@ -80,7 +78,6 @@
         Better Auth
       </td>
     </tr>
-
     <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" width="50"/><br/>
