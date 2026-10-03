@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0c29,50:302b63,100:24243e&text=Atikul%20Haq%20Rana&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Next.js%20%E2%80%A2%20NestJS%20%E2%80%A2%20UI%2FUX&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0c29,50:302b63,100:24243e&text=Atikul%20Haq%20Rana&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20Express%20%E2%80%A2%20MongoDB%20%E2%80%A2%20NestJS%20%E2%80%A2%20PostgreSQL&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=60&lines=Front-End+Developer+%F0%9F%9A%80;Building+Scalable+APIs+with+NestJS+%E2%9A%99%EF%B8%8F;Prisma+%2B+PostgreSQL+for+Type-Safe+Data+%F0%9F%90%98;Next.js+%7C+TypeScript+%7C+Tailwind+%E2%9C%A8;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Always+Learning+New+Tech+%F0%9F%93%9A" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=950&height=60&lines=Full-Stack+Developer+%F0%9F%9A%80;Next.js+%7C+TypeScript+%7C+Tailwind+%E2%9C%A8;Building+Scalable+APIs+with+ExpressJS+%26+NestJS+%E2%9A%99%EF%B8%8F;MongoDB%2C+Prisma+%2B+PostgreSQL+for+Type-Safe+Data+%F0%9F%90%98;From+Pixel-Perfect+UI+to+Production+APIs+%F0%9F%8E%A8;Always+Learning+New+Tech+%F0%9F%93%9A" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -23,7 +23,7 @@
 
 <br/>
 
-<img src="https://i.ibb.co.com/vxXtjb7H/github-image.png" width="100%" alt="Frontend Banner"/>
+<img src="https://i.ibb.co.com/9kRfQ9dS/github-img.png" width="100%" alt="Banner"/>
 
 ---
 
@@ -32,10 +32,20 @@
 ```ts
 const atikul = {
   name: "Atikul Haq Rana",
-  role: "Front-End Developer → Full-Stack (MERN + NestJS + PostgreSQL)",
-  focus: ["Pixel-perfect UI", "Smooth animations", "Type-safe APIs", "Clean architecture"],
-  currentlyLearning: ["NestJS", "PostgreSQL", "Prisma", "Swagger / OpenAPI", "Express.js", "MongoDB"],
-  funFact: "I turn coffee and curiosity into production-ready interfaces ☕",
+  role: "Full-Stack Developer (ReactJS + Next.js + NodeJS + ExpressJS + NestJS + Mongodb + PostgreSQL)",
+  focus: [
+    "Pixel-perfect, responsive UI",
+    "Type-safe APIs end to end",
+    "Clean, modular architecture",
+    "Smooth animations & great UX",
+  ],
+  stack: {
+    frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+    backend: ["NestJS", "Node.js", "Express.js"],
+    database: ["PostgreSQL", "Prisma", "MongoDB"],
+  },
+  currentlyLearning: ["NestJS", "PostgreSQL", "Prisma"],
+  funFact: "I turn coffee and curiosity into production-ready products ☕",
   motto: "Code is not just logic, it's creativity turned into reality.",
 } as const;
 ```
@@ -57,78 +67,124 @@ const atikul = {
   <img src="https://img.shields.io/badge/Better%20Auth-6D28D9?style=for-the-badge&logo=authelia&logoColor=white" alt="better-auth"/>
 </p>
 
-### ⚙️ Backend, Database & API
+### ⚙️ Backend & API
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,prisma,mongodb,firebase,swagger&perline=8" alt="backend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,swagger,postman&perline=8" alt="backend"/>
+</p>
+
+### 🗄️ Database & ORM
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,firebase&perline=8" alt="database"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="mongoose"/>
 </p>
 
-### 🎬 Design, Animation & Tools
+### 🎬 Design, Animation & DevTools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,framer,postman,git,github,vscode,vercel&perline=8" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=figma,framer,git,github,vscode,vercel&perline=8" alt="tools"/>
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="daisyui"/>
 </p>
 
 ---
 
-## 🧩 Architecture Snapshot
+## 🧩 Full-Stack Architecture
 
 ```mermaid
 flowchart LR
-    A[Next.js + TypeScript] -->|Zustand / Redux Toolkit| B[UI State]
-    A -->|NextAuth| C[Auth Session]
-    A -->|REST / Swagger Client| D[NestJS API]
-    D --> P[Prisma ORM]
-    P --> G[(PostgreSQL)]
-    D --> E[(MongoDB + Mongoose)]
-    D --> F[Swagger / OpenAPI Docs]
+    subgraph Client["Frontend"]
+        A[React + Next.js + TypeScript + Tailwind]
+        S[Zustand / Redux Toolkit]
+        N[NextAuth / Better Auth]
+    end
+
+    subgraph Server["Backend"]
+        E[Express.js REST API]
+        D[NestJS REST API]
+        W[Swagger / OpenAPI Docs]
+    end
+
+    subgraph Data["Data Layer"]
+        MG[Mongoose ODM]
+        M[(MongoDB)]
+        P[Prisma ORM]
+        G[(PostgreSQL)]
+    end
+
+    A --> S
+    A --> N
+    A -->|HTTP / REST| E
+    A -->|HTTP / REST| D
+    D --> W
+    E --> MG --> M
+    D --> P --> G
 ```
+
+---
+
+## 🚀 What I Build
+
+- 🖥️ **Frontend:** responsive, accessible interfaces with Next.js, TypeScript and Tailwind
+- ⚙️ **Backend:** modular REST APIs with NestJS (controllers, services, guards, DTO validation)
+- 🗄️ **Database:** relational schemas, migrations and type-safe queries with Prisma + PostgreSQL
+- 🔐 **Auth:** session and token based authentication with NextAuth / Better Auth
+- 📚 **Docs:** clean API documentation with Swagger / OpenAPI
 
 ---
 
 ## 🌱 Currently Learning
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=34D399&center=true&vCenter=true&width=640&lines=Learning+NestJS+%E2%80%94+Modules%2C+Providers%2C+Guards;Modeling+data+with+Prisma+%2B+PostgreSQL;Documenting+APIs+with+Swagger+%2F+OpenAPI;Mastering+Redux+Toolkit+%26+Zustand;Auth+flows+with+NextAuth+%26+Better+Auth;Node.js+%7C+Express.js+%7C+MongoDB" alt="learning"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=34D399&center=true&vCenter=true&width=760&lines=Learning+Node.js+%26+NestJS+%E2%80%94+Modules%2C+Providers%2C+Guards;Modeling+data+with+Prisma+ORM;Designing+schemas+in+PostgreSQL;Building+full-stack+apps+end+to+end" alt="learning"/>
 </div>
 
 <br/>
 
 | Skill | Progress |
 |---|---|
-| Frontend (React / Next.js) | ![](https://geps.dev/progress/85) |
+| Frontend (React / Next.js) | ![](https://geps.dev/progress/90) |
 | State Management (Redux / Zustand) | ![](https://geps.dev/progress/70) |
-| Authentication (NextAuth) | ![](https://geps.dev/progress/65) |
-| Backend (Node / Express / NestJS) | ![](https://geps.dev/progress/55) |
-| API Docs (Swagger) | ![](https://geps.dev/progress/50) |
-| Database (PostgreSQL / Prisma) | ![](https://geps.dev/progress/45) |
-
+| Authentication (Better Auth / Firebase) | ![](https://geps.dev/progress/80) |
+| Backend (Node / Express / MongoDB) | ![](https://geps.dev/progress/87) |
+| 🔥 NestJS *(learning)* | ![](https://geps.dev/progress/50) |
+| 🔥 PostgreSQL *(learning)* | ![](https://geps.dev/progress/45) |
+| 🔥 Prisma *(learning)* | ![](https://geps.dev/progress/45) |
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ranakhan-25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=34d399&count_private=true" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranakhan-25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa" alt="top langs"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:7c3aed,50:34d399,100:f59e0b&section=header" width="100%" alt="divider"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=34D399&center=true&vCenter=true&width=700&lines=%3C%2F%3E+Code+%E2%80%A2+Commit+%E2%80%A2+Repeat;Numbers+behind+my+late-night+commits+%F0%9F%8C%99" alt="stats tagline"/>
+
+<br/>
+
+<img src="https://img.shields.io/github/followers/ranakhan-25?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0f0c29&color=7c3aed" alt="followers"/>
+<img src="https://img.shields.io/github/last-commit/ranakhan-25/ranakhan-25?style=for-the-badge&logo=git&logoColor=white&label=Last%20Commit&labelColor=0f0c29&color=34d399" alt="last commit"/>
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img height="190" src="https://github-readme-stats.vercel.app/api?username=ranakhan-25&show_icons=true&hide_border=true&border_radius=18&bg_color=30,0f0c29,302b63&title_color=a78bfa&text_color=e5e7eb&icon_color=34d399&ring_color=a78bfa&rank_icon=github&count_private=true&include_all_commits=true" alt="stats"/>
+    </td>
+    <td align="center" width="50%">
+      <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranakhan-25&layout=donut&hide_border=true&border_radius=18&bg_color=30,0f0c29,302b63&title_color=a78bfa&text_color=e5e7eb&langs_count=8" alt="top langs"/>
+    </td>
+  </tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=ranakhan-25&theme=tokyonight&hide_border=true&border_radius=18&background=30,0f0c29,302b63&ring=a78bfa&fire=f97316&currStreakLabel=34d399&sideLabels=e5e7eb&currStreakNum=ffffff&sideNums=ffffff&dates=a78bfa" alt="streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ranakhan-25&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&radius=18&title=Contribution%20Graph" alt="activity graph" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:f59e0b,50:34d399,100:7c3aed&section=footer" width="100%" alt="divider"/>
+
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ranakhan-25&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=f97316&currStreakLabel=34d399" alt="streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranakhan-25&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed" alt="activity graph" width="100%"/>
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ranakhan-25&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies"/>
-</div>
-
----
 
 ## 🤝 Let's Connect
 
